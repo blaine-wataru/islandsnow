@@ -3,3 +3,8 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.borderless.shopmenu.menu {
+  box-shadow: none;
+  border: none;
+}
